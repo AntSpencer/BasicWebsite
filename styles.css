@@ -1,0 +1,14 @@
+.container{
+    border: solid;
+    padding: 20px;
+    padding-top: 0px;
+    background-color: darkgrey;
+
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: lightgrey;
+}
